@@ -1,4 +1,4 @@
-import{s as i,j as e,F as n,a as t,H as r,L as o,I as s}from"./index-7fd3d9ef.js";const d=i.div`
+import{s as t,j as e,F as i,a as n,H as o,L as d}from"./index-10b64429.js";const s=t.div`
     width: 100%;
     height: 70%;
     padding: 50px;
@@ -17,7 +17,7 @@ import{s as i,j as e,F as n,a as t,H as r,L as o,I as s}from"./index-7fd3d9ef.js
     @media (min-width: 576px) {
         height: 50%;
     }
-`,a=i.div`
+`,r=t.div`
     width: 100%;
     height: 30%;
     display: flex;
@@ -39,7 +39,4 @@ import{s as i,j as e,F as n,a as t,H as r,L as o,I as s}from"./index-7fd3d9ef.js
     @media (min-width: 576px) {
         height: 50%;
     }
-`,h=i(s)`
-    height: 50px;
-    margin-right: 15px;
-`,m=()=>e(n,{children:t(r,{children:[e(d,{children:e("p",{children:"成員皆身穿繡著紅雲的黑色風衣，頭戴繫著風鈴的斗笠，相應手指佩戴標有自己代號的戒指（右手大拇指到左手大拇指依次為：零、青、白、朱、玄、空、南、北、三、玉），指甲塗有指甲油，護額上有一道劃痕。平時執行任務時兩人一組一起行動。"})}),t(a,{children:[e(h,{children:e("img",{src:"./images/arrow.jpg",alt:"ArrowToMembers"})}),e(o,{to:"/members",children:"點我查看成員資訊"})]})]})});export{m as default};
+`,c=()=>e(i,{children:n(o,{children:[e(s,{children:e("p",{children:"成員皆身穿繡著紅雲的黑色風衣，頭戴繫著風鈴的斗笠，相應手指佩戴標有自己代號的戒指（右手大拇指到左手大拇指依次為：零、青、白、朱、玄、空、南、北、三、玉），指甲塗有指甲油，護額上有一道劃痕。平時執行任務時兩人一組一起行動。"})}),e(r,{children:e(d,{to:"/members",children:"點我查看成員資訊"})})]})});export{c as default};
